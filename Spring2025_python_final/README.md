@@ -1,9 +1,3 @@
-# python_qimo
-write something casually_haha^_^
-=======
-# Python-DepMap
-Sustech-25春-生物医学python编程入门-期末项目 （A project I did in college.）
-
 # Sustech-生物医学Python编程入门期末项目报告  
 
 ## project  
@@ -64,4 +58,7 @@ DepMap数据库，是一个关于癌症细胞的大型开放式数据库，它�
 并且，利用相应的数据与代码，进一步进行差异表达分析可以得到一些可能参与KRAS G12D突变功能通路的基因。这为后续研究KRAS的功能提供了相应的依据。  
 
 欢迎大家使用或参考该项目中的分析流程，并结合自己的数据进行扩展。
+
+
+
 
